@@ -1,6 +1,6 @@
 # ModerLauncher Website - La Página Oficial de tu Lanzador para Minecraft 🌐
 
-![ModerLauncher Website Logo](https://link_a_tu_imagen/logo.png)
+![ModerLauncher Website Logo](https://cdn.discordapp.com/attachments/1020374844036100147/1316835426006208592/Diseno_sin_titulo__28_-removebg-preview.png?ex=675c7e0f&is=675b2c8f&hm=7cb4a1328273a2eaf8feefda67f48b4c92694a472a59df5a6800152bbfaf7bb9&)
 
 Bienvenido al repositorio oficial de la **Página Web de ModerLauncher**. Este proyecto está dedicado al desarrollo de la página web que acompaña a **ModerLauncher**, el lanzador gratuito de Minecraft que estamos creando. Aquí encontrarás todos los recursos necesarios para colaborar en la construcción de la página y mejorar la experiencia de los usuarios.
 
